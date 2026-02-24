@@ -1,5 +1,6 @@
 # pyspark-big-data-analysis
 This work was completed as part of my M.Sc. in Computer Science at Clausthal University of Technology.
+the work focuses on learning how large datasets can be processed using Apache Spark and PySpark.
 The goal of the assignment was to understand distributed data processing and practice working with RDDs and DataFrames.
 
 ---
